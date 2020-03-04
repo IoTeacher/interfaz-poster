@@ -4,3 +4,9 @@ Docente de hará entregar por GitHub MURO DE RED SOCIAL (click en el pulpo negro
 
 El bloque que correponde presentar.
 
+Simbolos de MarkDown: 
+
+https://guides.github.com/features/mastering-markdown/
+
+
+![GitHub](Poster ARM32.jpg)
