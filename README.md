@@ -9,4 +9,4 @@ Simbolos de MarkDown:
 https://guides.github.com/features/mastering-markdown/
 
 
-![GitHub](Poster ARM32.jpg)
+![](Poster ARM32bits.png)
